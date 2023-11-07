@@ -19,6 +19,10 @@ With this API you can manage users, clubs and members for your team (like sport 
 
 `npm run dev`
 
+`npm run test`
+
+`npm run coverage`
+
 ## Environment 🌿
 
 - `MONGO_URI` = Mongo DB full URI (default: mongodb://localhost:27017/teams-api)
